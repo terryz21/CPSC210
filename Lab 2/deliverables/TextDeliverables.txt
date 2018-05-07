@@ -1,0 +1,46 @@
+Lab 2 Task M5:
+
+
+Failed Test Method #1: testRotateRightStartingUp does not work properly
+
+Instead of facing the RIGHT direction after starting UP, the WebCat program is unable to
+rotate right towards the correct direction. One possible explanation for this error could be that
+the statement is incorrectly implemented such that instead of changing the new direction to RIGHT after
+rotateRight, the program stays at UP
+
+            case UP:
+                direction = Direction.UP;  //Should be Direction.RIGHT
+                break;
+
+
+
+
+Failed Test Method #2: testMultipleEat does not work properly
+
+The snake is unable to accumulate nutrition consumed in a cumulative manner. That is,
+each time nutritionConsumed is called, nutrition value is replaced instead of summing onto
+the previous nutrition value. One possible explanation for this error could be that the WebCat program
+is incorrectly implemented such that,
+
+nutritionConsumed = food.getNutritionalValue();  when its supposed to be
+
+nutritionConsumed += food.getNutritionalValue()
+
+
+
+
+Lab 2 Task M6:
+
+
+The design principle that is violated in testIsGameOverMoveUp is the fact a constant is integrated directly in the method
+instead of using a variable. Thus, if the number of rows & columns are changed the distance to the borders of the cell
+will also increase. Putting a constant in the method definition will not allow the method to accommodate any changes to the
+constant at hand. So instead of,
+
+for(int i = 0; i < 5; i++) {
+            testSnakeGame.update();      it should be something like
+
+
+for(int i = 0; i < distanceToTopBorder; i++) {
+            testSnakeGame.update();
+

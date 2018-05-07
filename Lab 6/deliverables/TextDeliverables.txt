@@ -1,0 +1,21 @@
+Task P3:
+
+The methods that will have to change in order to take into account the new "Discount" service
+are,
+
+getServicePoints(), getCalloutFee(), getServiceFee().
+
+
+
+Task M8:
+
+In the end the three methods outlined above were not really changed, but rather through the use of @Override,
+were tailored for each specific case of ServiceType by updating them to include the variable and class names
+that were associated with the service case at hand. That is, I didn't modify the implementations of the three methods
+but just changed the variable names to the ones that was part of one of the service types.
+
+
+
+
+
+

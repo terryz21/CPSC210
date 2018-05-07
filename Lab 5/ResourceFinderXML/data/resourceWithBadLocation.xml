@@ -1,0 +1,16 @@
+<resources>
+    <resource>
+        <name>Downtown Eastside Women's Centre</name>
+        <address>302 Columbia Street, Vancouver, BC V6A 4J1</address>
+        <location>
+            <lat>49. 2821393</lat>
+            <lon>-123.1020496</lon>
+        </location>
+        <webaddress>http://dewc.ca/programs/health-and-wellness</webaddress>
+        <phone>604-715-8480</phone>
+        <services>
+            <service>Food</service>
+            <service>Senior services</service>
+        </services>
+    </resource>
+</resources>

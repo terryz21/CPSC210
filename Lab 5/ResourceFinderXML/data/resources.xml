@@ -1,0 +1,129 @@
+<resources>
+    <resource>
+        <name>Downtown Eastside Women's Centre</name>
+        <address>302 Columbia Street, Vancouver, BC V6A 4J1</address>
+        <location>
+            <lat>49.2821393</lat>
+            <lon>-123.1020496</lon>
+        </location>
+        <webaddress>http://dewc.ca/programs/health-and-wellness</webaddress>
+        <phone>604-715-8480</phone>
+        <services>
+            <service>Food</service>
+            <service>Senior services</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Downtown Eastside Women's Centre</name>
+        <address>412 E Cordova St, Vancouver, BC V6A 3A6</address>
+        <location>
+            <lat>49.2820975</lat>
+            <lon>-123.0950018</lon>
+        </location>
+        <webaddress>http://dewc.ca/emergency-shelter</webaddress>
+        <phone>604-715-8480</phone>
+        <services>
+            <service>Shelter</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Union Gospel Mission</name>
+        <address>601 East Hastings St.
+            Vancouver, BC V6A 1J7</address>
+        <location>
+            <lat>49.2813163</lat>
+            <lon>-123.0913081</lon>
+        </location>
+        <webaddress>http://www.ugm.ca/program-meal-times/</webaddress>
+        <phone>604-253-3323</phone>
+        <services>
+            <service>Shelter</service>
+            <service>Food</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Greater Vancouver Foodbank Society</name>
+        <address>1150 Raymur Avenue, Vancouver, BC  V6A 3T2</address>
+        <location>
+            <lat>49.2747949</lat>
+            <lon>-123.082421</lon>
+        </location>
+        <webaddress>https://www.foodbank.bc.ca</webaddress>
+        <phone>604-876-3601</phone>
+        <services>
+            <service>Food</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Covenant House (Male Youth)</name>
+        <address>326 West Pender Street, Vancouver, BC</address>
+        <location>
+            <lat>49.282175</lat>
+            <lon>-123.1115649</lon>
+        </location>
+        <webaddress>http://www.covenanthousebc.org</webaddress>
+        <phone>604-685-7474</phone>
+        <services>
+            <service>Food</service>
+            <service>Shelter</service>
+            <service>Counselling</service>
+            <service>Youth services</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Covenant House (Female Youth)</name>
+        <address>575 Drake Street, Vancouver, BC</address>
+        <location>
+            <lat>49.2754351</lat>
+            <lon>-123.1264664</lon>
+        </location>
+        <webaddress>http://www.covenanthousebc.org</webaddress>
+        <phone>604-685-7474</phone>
+        <services>
+            <service>Food</service>
+            <service>Shelter</service>
+            <service>Counselling</service>
+            <service>Youth services</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Lookout Society</name>
+        <address>429 Alexander Street, Vancouver, B.C., V6A 1C6</address>
+        <location>
+            <lat>49.2840793</lat>
+            <lon>-123.0946635</lon>
+        </location>
+        <webaddress>http://lookoutsociety.ca</webaddress>
+        <phone>604-255-0340</phone>
+        <services>
+            <service>Shelter</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Family Services</name>
+        <address>1638 E Broadway, Vancouver, BC V5N 1W1</address>
+        <location>
+            <lat>49.26216</lat>
+            <lon>-123.0709403</lon>
+        </location>
+        <webaddress>http://lookoutsociety.ca</webaddress>
+        <phone>604-731-4951</phone>
+        <services>
+            <service>Counselling</service>
+            <service>Youth services</service>
+        </services>
+    </resource>
+    <resource>
+        <name>Law Students' Legal Advice Program</name>
+        <address>Room 129, Allard Hall, 1822 East Mall, Vancouver, BC V6T 1Z1</address>
+        <location>
+            <lat>49.2698666</lat>
+            <lon>-123.2535821</lon>
+        </location>
+        <webaddress>http://www.lslap.bc.ca</webaddress>
+        <phone>604-822-5791</phone>
+        <services>
+            <service>Legal advice</service>
+        </services>
+    </resource>
+</resources>

@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Downtown Eastside Women's Centre",
+    "address": "302 Columbia Street, Vancouver, BC V6A 4J1",
+    "location":
+      {
+        "lat": 49.2821393,
+        "lon": -123.1020496
+      },
+    "webaddress": "http://dewc.ca/programs/health-and-wellness",
+    "phone": "604-715-8480",
+    "services":
+      [
+        "Food",
+        "Senior services"
+      ]
+  },
+  {
+    "address": "412 E Cordova St, Vancouver, BC V6A 3A6",
+    "location":
+    {
+      "lat": 49.2820975,
+      "lon": -123.0950018
+    },
+    "webaddress": "http://dewc.ca/emergency-shelter",
+    "phone": "604-715-8480",
+    "services":
+    [
+      "Shelter"
+    ]
+  },
+  {
+    "name": "Union Gospel Mission",
+    "location":
+    {
+      "lat": 49.2813163,
+      "lon": -123.0913081
+    },
+    "webaddress": "http://www.ugm.ca/program-meal-times/",
+    "phone": "604-253-3323",
+    "services":
+    [
+      "Shelter",
+      "Food"
+    ]
+  },
+  {
+    "name": "Greater Vancouver Foodbank Society",
+    "address": "1150 Raymur Avenue, Vancouver, BC  V6A 3T2",
+    "webaddress": "https://www.foodbank.bc.ca",
+    "phone": "604-876-3601",
+    "services":
+    [
+      "Food"
+    ]
+  },
+  {
+    "name": "Covenant House (Male Youth)",
+    "address": "326 West Pender Street, Vancouver, BC",
+    "location":
+    {
+      "lat": 49.282175,
+      "lon": -123.1115649
+    },
+    "phone": "604-685-7474",
+    "services":
+    [
+      "Food",
+      "Shelter",
+      "Counselling",
+      "Youth services"
+    ]
+  },
+  {
+    "name": "Covenant House (Female Youth)",
+    "address": "575 Drake Street, Vancouver, BC",
+    "location":
+    {
+      "lat": 49.2754351,
+      "lon": -123.1264664
+    },
+    "webaddress": "http://www.covenanthousebc.org",
+    "phone": "604-685-7474",
+    "services":
+    [
+      "Food",
+      "Shelter",
+      "Counselling",
+      "Youth services"
+    ]
+  },
+  {
+    "name": "Lookout Society",
+    "address": "429 Alexander Street, Vancouver, B.C., V6A 1C6",
+    "location":
+    {
+      "lat": 49.2840793,
+      "lon": -123.0946635
+    },
+    "webaddress": "http://lookoutsociety.ca",
+    "services":
+    [
+      "Shelter"
+    ]
+  },
+  {
+    "name": "Family Services",
+    "address": "1638 E Broadway, Vancouver, BC V5N 1W1",
+    "location":
+    {
+      "lat": 49.26216,
+      "lon": -123.0709403
+    },
+    "webaddress": "http://lookoutsociety.ca",
+    "phone": "604-731-4951",
+    "services":
+    [
+      "Counselling",
+      "Youth services"
+    ]
+  },
+  {
+    "name": "Law Students' Legal Advice Program",
+    "address": "Room 129, Allard Hall, 1822 East Mall, Vancouver, BC V6T 1Z1",
+    "location":
+    {
+      "lat": 49.2698666,
+      "lon": -123.2535821
+    },
+    "webaddress": "http://www.lslap.bc.ca",
+    "phone": "604-822-5791"
+  }
+]
